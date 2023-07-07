@@ -1,0 +1,2 @@
+table_content {name, description};
+quiz {name, questions[{title, options[{option, iscorrect}]}], };
